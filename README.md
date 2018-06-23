@@ -1,32 +1,22 @@
-# An E-Commerce App
+# MEAN E-Commerce App
 
 ---
 
-# Contributors
+# Implemented Feautures for the app
 
-### Alexandra Zadereiko
+### Stripe API, Cart page & Order page
 
-#### Stripe API, Cart page & Order page
+### Database, API Endpoint logics, Backend Configuration, Seller pages
 
-### Chanthy Ngin
+### Face recognition login, Product Detail Page
 
-#### Database, API Endpoint logics, Backend Configuration, Seller pages
+### rxjs logics, Product Main page & Cart page
 
-### Javier Gonzalez
-
-#### Face recognition login, Product Detail Page
-
-### Rose Reyes
-
-#### rxjs logics, Product Main page & Cart page
-
-### Sun Davey
-
-#### Auth0, Google Map API, Main Page, Design
+### Auth0, Google Map API, Main Page, Design
 
 ---
 
-# Used
+# Tech Stack
 
 MEAN Stack (Mongo, Express, Angular, Node.js)
 
@@ -48,4 +38,4 @@ MEAN Stack (Mongo, Express, Angular, Node.js)
 
 #### Trello
 
-#### Pair Programming
+
